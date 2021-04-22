@@ -2,8 +2,8 @@
 
 data structure study log.
 
-1. stack
-2. queue
-3. linked list
-4. binary tree
+1. stack (Not yet)
+2. queue (Not yet)
+3. linked list (Not yet)
+4. binary tree (Not yet)
 
